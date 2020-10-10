@@ -1,20 +1,23 @@
 * {
     margin: 0px;
     background-color: rgb(83, 73, 73);
-    font: purple;
+    color: purple;
     text-align: center;
 }
 
-h1 {
-    font: purple;
+.header1 {
+    font-style: 40px;
+    color: floralwhite;
     text-align: center;
     display: flex;
-    font-size: large;
+    justify-content: center;
 }
 
-p {
-    line-height: 1em;
+.para {
+    line-height: 1.5em;
     font: white;
+    display: flex;
+    justify-content: center;
     text-align: center;
     width: 80%;
 }
