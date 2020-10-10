@@ -4,8 +4,8 @@
 
 .cheats {
     display: flex;
-    flex-direction: column;
-    /* Centers along the main axis determined by flex-direction */
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     /* Centers along the opposite axis */
     align-items: center;
