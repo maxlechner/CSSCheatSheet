@@ -4,6 +4,10 @@
     font-color: purple;
 }
 
+h1 {
+  color: purple;
+}
+
 .cheats {
     display: flex;
     flex-direction: row;
